@@ -18,7 +18,7 @@ console.log("keliling persegi panjang adalah:" + hasil)
 //Tentukan phi dan r//
 let phi = 3.14;
 let r = 100;
-let hasilL = phi*r;
+let hasilL = phi* 2 * r;
 console.log ("Hasil dari luas lingkarang adalah:" + hasilL);
 
 //menentukan luas persegi dari keliling persegi//
